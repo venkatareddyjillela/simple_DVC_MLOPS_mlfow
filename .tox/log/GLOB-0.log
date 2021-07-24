@@ -26,6 +26,7 @@ copying prediction_service\prediction.py -> src-1.0.0\prediction_service
 copying src\__init__.py -> src-1.0.0\src
 copying src\get_data.py -> src-1.0.0\src
 copying src\load_data.py -> src-1.0.0\src
+copying src\log_production_model.py -> src-1.0.0\src
 copying src\split_data.py -> src-1.0.0\src
 copying src\train_and_evaluate.py -> src-1.0.0\src
 copying src.egg-info\PKG-INFO -> src-1.0.0\src.egg-info
@@ -50,6 +51,7 @@ adding 'src-1.0.0\prediction_service\prediction.py'
 adding 'src-1.0.0\prediction_service\__init__.py'
 adding 'src-1.0.0\src\get_data.py'
 adding 'src-1.0.0\src\load_data.py'
+adding 'src-1.0.0\src\log_production_model.py'
 adding 'src-1.0.0\src\split_data.py'
 adding 'src-1.0.0\src\train_and_evaluate.py'
 adding 'src-1.0.0\src\__init__.py'
